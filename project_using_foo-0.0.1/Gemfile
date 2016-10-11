@@ -1,0 +1,3 @@
+source "file://#{File.expand_path('../../repo', __FILE__)}"
+
+gem 'foo', '0.0.1'
